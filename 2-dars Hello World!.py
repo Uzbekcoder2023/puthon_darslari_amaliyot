@@ -5,7 +5,7 @@ Sobirjonov Khusanboy
 Amaliyot
 """
 # 1
-print('Assalom alaykum') # Natija : Assalom alaykum
+print('Assalomu alaykum') # Natija : Assalomu alaykum
 
 # 2
 print(Hayrli tong!) # Natija : invalid syntax
